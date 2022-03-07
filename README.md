@@ -10,4 +10,4 @@ By using our terms of services for the OtakuGirl bot, you agree to some of the c
  - our team developer's does not ask for any private information while using it
  - bad uses of our bot may remove it from your server
 # 3 - Bot use License :
-our bot is free to use "as" or "is" we provide a free command and free feature to use
+our bot is free to use "as" or "is" we provide a free command and free feature to use , no paid 
